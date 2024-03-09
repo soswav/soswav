@@ -2,4 +2,8 @@
 
 ### hello, i'm soswav (sleeping on sound waves)!
 ### i'm a very (un)cool guy that is \*currently\* trying to learn a lot of stuff!
-#### i still don't remember why i made an account here lol
+
+
+
+
+<img src="https://i.imgur.com/ipcf2zc.png" width="13%" align="right">
