@@ -3,7 +3,7 @@ hello, i'm soswav (sleeping on sound waves) and i'm learning some cool stuff!
 # cool stuff i'm into/use/i know
 [![](https://skillicons.dev/icons?i=nim,css,bash,discord,linux,mastodon,md,vscodium)](https://skillicons.dev)
 
-# cool stuff i wanna learn/i know
+# cool stuff i wanna learn/know
 - [x] nim
 - [x] css
 - [x] dutch
