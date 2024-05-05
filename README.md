@@ -1,16 +1,19 @@
-### Hi there 👋
+# intro
+hello, i'm soswav (sleeping on sound waves) and i'm learning some cool stuff!
+# cool stuff i'm into/use/i know
+[![](https://skillicons.dev/icons?i=nim,css,bash,discord,linux,mastodon,md,vscodium)](https://skillicons.dev)
 
-<!--
-**soswav/soswav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# cool stuff i wanna learn
+- [x] nim
+- [x] css
+- [x] dutch
+- [ ] gleam
+- [ ] fully learn dutch
+- [ ] how to actually make useful stuff
+- [ ] how to be cool
+- [ ] fully learn css
+- [ ] php
+- [ ] html
+- [ ] more nim
+- [ ] either coffescript or javascript
+- [ ] how to get internet for free (i'm **POOR**)
