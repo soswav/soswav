@@ -16,6 +16,7 @@ hello, i'm soswav (sleeping on sound waves) and i'm learning some cool stuff!
 - [ ] php
 - [ ] html
 - [ ] more nim
+- [ ] lua
 - [ ] more bash
 - [ ] either coffescript or javascript
 - [ ] how to get internet for free (i'm **POOR**)
