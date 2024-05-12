@@ -20,3 +20,5 @@ hello, i'm soswav (sleeping on sound waves) and i'm learning some cool stuff!
 - [ ] more bash
 - [ ] either coffescript or javascript
 - [ ] how to get internet for free (i'm **POOR**)
+
+###### soswav © 2024 by soswav is licensed under BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
