@@ -14,29 +14,29 @@
 <p>
 here's the stuff i'm currently trying to learn (like, really hard):
 
-* PHP, [-]
-* HTML, [?]
-* Blazor (C# gets added to the mix as well), [?]
-* CSS, [O]
+* php, [-]
+* html, [?]
+* blazor (c# gets added to the mix as well), [?]
+* css, [O]
 
 the second priority would be:
 
-* Nim (I love Nim so much), [O]
-* Dutch (I also love Dutch), [-]
-* Gleam, [?]
-* Bash, [O]
-* C, [?]
+* nim (i love nim sm), [O]
+* dutch (i also love dutch), [-]
+* gleam, [?]
+* bash, [O]
+* c, [?]
 
 and, the third priority is:
 
-* Lua, [?]
-* C++, [?]
-* JS (or CoffeScript), [?]
-* Rust, [?]
-* Go, [?]
-* Haskell, [?]
-* Java, [?]
-* Perl [?]
+* lua, [?]
+* c++, [?]
+* javascript (or coffescript), [?]
+* rust, [?]
+* go, [?]
+* haskell, [?]
+* java, [?]
+* perl [?]
 
 ```txt
 [?] - nothing yet
