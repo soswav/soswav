@@ -30,6 +30,7 @@ the second priority would be:
 and, the third priority is:
 
 * lua, [?]
+* go, [?]
 * c++, [?]
 * rust, [?]
 * go, [?]
