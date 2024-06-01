@@ -15,7 +15,7 @@
 here's the stuff i'm currently trying to learn (like, really hard):
 
 * php, [-]
-* html, [?]
+* html, [-]
 * blazor (c# gets added to the mix as well), [?]
 * css, [O]
 
@@ -31,7 +31,6 @@ and, the third priority is:
 
 * lua, [?]
 * c++, [?]
-* javascript (or coffescript), [?]
 * rust, [?]
 * go, [?]
 * haskell, [?]
