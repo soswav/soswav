@@ -22,8 +22,7 @@ here's the stuff i'm currently trying to learn (like, really hard):
 the second priority would be:
 
 * nim (i love nim sm), [O]
-* dutch (i also love dutch), [-]
-* gleam, [?]
+* dutch (i also love dutch), [-] <!-- * gleam, [?] -->
 * bash, [O]
 * c, [?]
 
@@ -33,8 +32,7 @@ and, the third priority is:
 * go, [?]
 * c++, [?]
 * rust, [?]
-* go, [?]
-* haskell, [?]
+* go, [?] <!-- * haskell, [?] -->
 * java, [?]
 * perl [?]
 
