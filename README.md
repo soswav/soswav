@@ -14,26 +14,26 @@
 <p>
 here's the stuff i'm currently trying to learn (like, really hard):
 
-* php, [-]
-* html, [-]
-* blazor (c# gets added to the mix as well), [?]
-* css, [O]
+* rust, [?]
+* java, [?]
+* c, [?]
+* lua, [?]
+* nix, [?]
 
 the second priority would be:
 
 * nim (i love nim sm), [O]
-* dutch (i also love dutch), [-] <!-- * gleam, [?] -->
+* css, [O]
 * bash, [O]
-* c, [?]
+* dutch (i also love dutch), [-]
+* html, [-]
+* php, [-]
+* c#, [?]
 
 and, the third priority is:
 
-* lua, [?]
 * go, [?]
 * c++, [?]
-* rust, [?]
-* go, [?] <!-- * haskell, [?] -->
-* java, [?]
 * perl [?]
 
 ```txt
