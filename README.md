@@ -46,4 +46,4 @@ and, the third priority is:
 
 </details>
 
-<h6 align="center" >soswav © 2024 by soswav is licensed under BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/</h6>
+<h6 align="center"> soswav © 2024 by soswav is licensed under the Passive-Aggresive License. To view a copy of this license, search for it. (I FUCKING LICENSED MYSELF!!!)</h6>
